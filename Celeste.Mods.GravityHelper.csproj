@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <AssemblyName>Celeste.Mods.GravityHelper</AssemblyName>
+        <RootNamespace>Celeste.Mods.GravityHelper</RootNamespace>
+    </PropertyGroup>
+    <ItemGroup>
+        <ProjectReference
+            Include="$(SharedRoot)/src/Celeste.Game.Runtime/Celeste.Game.Runtime.csproj"
+            Private="false"
+        />
+        <PackageReference Include="MonoMod.RuntimeDetour" Version="25.3.6" />
+        <Reference Include="YamlDotNet" HintPath="$(SharedRoot)/lib/Everest/YamlDotNet.dll" Private="false" />
+    </ItemGroup>
+</Project>
