@@ -1,0 +1,420 @@
+{
+  "evidence": [
+    {
+      "path": "Activation/GravityHookActivationPolicy.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Activation/GravityHookLevel.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Collision/GravityPlayerGroundContact.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Components/GravityComponent.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Components/GravityHoldable.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Components/GravityListener.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Components/MoveBlockBottomComponent.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Components/PlayerGravityComponent.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Components/PlayerGravityListener.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/ArrowSetting.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/ColorSchemeSetting.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/ControlSchemeSetting.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/GravityHelperSettings.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/GravityHelperSettings.Migrations.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/VvvvvvSetting.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Extensions/EntityExtensions.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Gravity/GravityChangeArgs.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Gravity/GravityType.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Gravity/VvvvvvMode.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityActorHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityAngryOshiroHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityBadelineBoostHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityBoosterHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityBounceBlockHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityBumperHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityChaserHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityCrushBlockHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityDashSwitchHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityFinalBossHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityFireBarrierHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityFloatySpaceBlockHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityFlyFeatherHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityGliderHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityHeartGemHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityHoldableHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityIceBlockHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityLevelBoundsHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityLevelEnterHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityLevelTransitionHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityLoaderHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityMoveBlockHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerAnimationGeometryHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerCarryHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerClimbHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerCollisionHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerContactHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerDashHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerDeathHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerDreamHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerFeatherHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerFrameHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerInputHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerIntroHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerJumpLaunchHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerLifecycleHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerMiscHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerNormalHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerPresentationHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerSpatialHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerSwimHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityPlayerTransitionHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravitySeekerHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravitySnowballHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravitySpikesHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravitySpringHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityStarJumpBlockHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityTheoCrystalHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/GravityTriggerSpikesHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Interop/GravityHelperExports.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Interop/GravityHelperExports.Entities.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Interop/GravityHelperExports.Shaders.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Metadata/VersionInfo.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Modules/GravityHelperModule.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Modules/GravityHelperModule.Hooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Runtime/GravityChaserHistory.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Runtime/GravityHelperSession.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Runtime/GravityOptionalEntityCallbacks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Runtime/InvokeOnDispose.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Triggers/HoldableSpawnGravityTrigger.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Runtime/Particles/InvertedSummitLandParticles.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Presentation/Colors/ColorExtensions.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Presentation/Colors/GravityColorScheme.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/Levels/GravityLevelLifecycleHooks.Controllers.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/Levels/GravityLevelLifecycleHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/Platforms/GravityPlatformHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/Platforms/GravityPlatformHooks.JumpThru.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/Platforms/GravityPlatformHooks.Platform.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/Platforms/GravityPlatformHooks.Solid.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/Platforms/GravityPlatformHooks.Tiles.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/ThirdParty/GravityCardinalBumperHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Hooks/ThirdParty/GravityMhhUpsideDownCornerHooks.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/Collectibles/GravityRefill.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/Collectibles/GravityRefill.Presentation.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/Collectibles/GravityRefillReplacement.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/Controllers/DisableUpTransitionController.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/Controllers/VisualGravityController.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/Controllers/VvvvvvGravityController.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/Indicators/GravityIndicator.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/PlayerIndicators/GravityRefillIndicator.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Entities/PlayerIndicators/GravityShieldIndicator.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/SettingsMenu/ColorChangeOnOff.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/SettingsMenu/ColorChangePercent.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/SettingsMenu/ColorChangeTextMenuOption.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    },
+    {
+      "path": "Configuration/SettingsMenu/GravityHelperSettingsMenu.cs",
+      "header": "// Copyright (c) Shane Woolcock. Licensed under the MIT Licence."
+    }
+  ]
+}
